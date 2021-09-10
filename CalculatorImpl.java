@@ -16,7 +16,6 @@ public class CalculatorImpl {
 		/*
 		 * Calculator calculator = () -> System.out.println("Switch On");
 		 * 
-		 * calculator.switchOn();
 		 */
 
 		/*
