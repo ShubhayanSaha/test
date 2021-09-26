@@ -300,4 +300,7 @@ Output:
             }else  
                 System.out.println("String value is not present");  
         }  
-    }  
+    }
+    
+--------------------------------------------------------------------------------
+Now Comes Java 11
